@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/json-go/types"
+	"github.com/tucats/json-go/types"
 )
 
 // Convert converts a json payload into a Go definition string.  The

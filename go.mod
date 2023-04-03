@@ -1,3 +1,3 @@
-module github.com/json-go
+module github.com/tucats/json-go
 
 go 1.20

@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/json-go/format"
+	"github.com/tucats/json-go/format"
 )
 
 // Convert a JSON object to a Go structure type. The object is represented as a
